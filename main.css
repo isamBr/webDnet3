@@ -1,0 +1,27 @@
+/*CSS Files */
+h1 {
+   color : red;
+   font-family : gothic, sans-serif;
+   font-size : 1.6em;
+   text-decoration: blink;
+   }
+h2 { 
+   color : green;
+    font-size : 1.4em;
+   }
+   /*set the paragraph style*/
+   p {
+      font-family : verdana, sans-serif;
+	  text-align : justify;
+	  font-size : 1em;
+	  font-weight : bold ;
+	  font-style : italic;
+	  }
+h3 {
+   font-variant : small-caps;
+   
+   }
+ body {
+      background-color : #ffffcc;
+	  }
+      
